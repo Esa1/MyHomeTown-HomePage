@@ -22,10 +22,24 @@ body {
     margin: 0;
 }
 
-.activities {
-    display: flex;
+.activities-title {
+    margin-top: 39px;
+    margin-bottom: 54px;
 }
 
+.activities {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.activity-img {
+    margin-bottom: 22px;
+}
+
+.activity-title {
+    margin-bottom: 17px;
+
+}
 .activity-description {
     width: 198px;
 }
