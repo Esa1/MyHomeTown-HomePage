@@ -110,6 +110,8 @@ body {
     margin-top: 50px;
     border-radius: 10px;
     display: flex;
+    justify-content: center;
+    align-items: center;
     background: #A8DADC;
 
     box-shadow: 0px 6px 0px 0px #1D3557;
